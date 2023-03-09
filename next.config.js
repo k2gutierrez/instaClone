@@ -4,7 +4,8 @@ const nextConfig = {
   images: {
     domains: [
       "cdn.pixabay.com",
-      "upload.wikimedia.org"
+      "upload.wikimedia.org",
+      "cdn-icons-png.flaticon.com"
     ]
   }
 }
